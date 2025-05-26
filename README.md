@@ -1,1 +1,1 @@
-These are the tasks thawe have done during training
+These are the tasks that we have done during training
